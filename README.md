@@ -1,7 +1,7 @@
 # Lending-Club-Analysis
 Exploratory Data Analysis (EDA) performed for a consumer finance company to understand the If the applicant is likely to repay the loan or not.
 
-**Business Understanding**__
+**Business Understanding**
 A consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. 
 Two types of risks are associated with the bank’s decision:
 
@@ -24,5 +24,5 @@ _Charged-off_: Applicant has not paid the instalments in due time for a long per
 _Loan rejected_: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
 
-**Business Objective**__
+**Business Objective**
 The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
